@@ -1,0 +1,107 @@
+Epoch 0
+        Validation Accuracy:0.5
+        Validation Loss:0.7407
+        Validation AUROC:0.4355
+        Train Accuracy:0.5
+        Train Loss:0.744
+        Train AUROC:0.5225
+Epoch 1
+        Validation Accuracy:0.8214
+        Validation Loss:0.3894
+        Validation AUROC:0.9086
+        Train Accuracy:0.8381
+        Train Loss:0.383
+        Train AUROC:0.925
+Epoch 2
+        Validation Accuracy:0.8571
+        Validation Loss:0.2969
+        Validation AUROC:0.9427
+        Train Accuracy:0.9131
+        Train Loss:0.273
+        Train AUROC:0.9574
+Epoch 3
+        Validation Accuracy:0.8286
+        Validation Loss:0.3484
+        Validation AUROC:0.959
+        Train Accuracy:0.8333
+        Train Loss:0.3675
+        Train AUROC:0.9677
+Epoch 4
+        Validation Accuracy:0.9071
+        Validation Loss:0.2299
+        Validation AUROC:0.9633
+        Train Accuracy:0.9345
+        Train Loss:0.1984
+        Train AUROC:0.9792
+Epoch 5
+        Validation Accuracy:0.9143
+        Validation Loss:0.2265
+        Validation AUROC:0.9665
+        Train Accuracy:0.944
+        Train Loss:0.1758
+        Train AUROC:0.9866
+Epoch 6
+        Validation Accuracy:0.9
+        Validation Loss:0.2281
+        Validation AUROC:0.9641
+        Train Accuracy:0.9631
+        Train Loss:0.1292
+        Train AUROC:0.9922
+Epoch 7
+        Validation Accuracy:0.9
+        Validation Loss:0.246
+        Validation AUROC:0.972
+        Train Accuracy:0.9726
+        Train Loss:0.11
+        Train AUROC:0.9974
+Epoch 8
+        Validation Accuracy:0.9
+        Validation Loss:0.2172
+        Validation AUROC:0.9722
+        Train Accuracy:0.9881
+        Train Loss:0.0547
+        Train AUROC:0.9995
+-----------------------------------------------------------------
+Epoch 9
+        Validation Accuracy:0.9071
+        Validation Loss:0.2053
+        Validation AUROC:0.9739
+        Train Accuracy:0.994
+        Train Loss:0.038
+        Train AUROC:0.9999
+-----------------------------------------------------------------
+Epoch 10
+        Validation Accuracy:0.9143
+        Validation Loss:0.2311
+        Validation AUROC:0.9724
+        Train Accuracy:0.9976
+        Train Loss:0.0234
+        Train AUROC:1.0
+Epoch 11
+        Validation Accuracy:0.9143
+        Validation Loss:0.2314
+        Validation AUROC:0.9792
+        Train Accuracy:0.994
+        Train Loss:0.0333
+        Train AUROC:1.0
+Epoch 12
+        Validation Accuracy:0.8786
+        Validation Loss:0.3843
+        Validation AUROC:0.9712
+        Train Accuracy:0.9631
+        Train Loss:0.0966
+        Train AUROC:1.0
+Epoch 13
+        Validation Accuracy:0.9214
+        Validation Loss:0.2212
+        Validation AUROC:0.9755
+        Train Accuracy:1.0
+        Train Loss:0.0128
+        Train AUROC:1.0
+Epoch 14
+        Validation Accuracy:0.9071
+        Validation Loss:0.2655
+        Validation AUROC:0.9737
+        Train Accuracy:0.9988
+        Train Loss:0.0132
+        Train AUROC:1.0

@@ -1,0 +1,9 @@
+ Validation Accuracy:0.9143
+        Validation Loss:0.2083
+        Validation AUROC:0.9749
+        Train Accuracy:0.9905
+        Train Loss:0.0444
+        Train AUROC:0.9998
+        Test Accuracy:0.7143
+        Test Loss:0.9082
+        Test AUROC:0.7602

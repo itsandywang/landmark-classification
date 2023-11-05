@@ -1,0 +1,90 @@
+Epoch 0
+        Validation Accuracy:0.5929
+        Validation Loss:0.8823
+        Validation AUROC:0.7769
+        Train Accuracy:0.6333
+        Train Loss:0.9539
+        Train AUROC:0.7148
+        Test Accuracy:0.6339
+        Test Loss:0.9401
+        Test AUROC:0.7219
+Epoch 1
+        Validation Accuracy:0.8429
+        Validation Loss:0.3375
+        Validation AUROC:0.9369
+        Train Accuracy:0.8571
+        Train Loss:0.3675
+        Train AUROC:0.9453
+        Test Accuracy:0.6339
+        Test Loss:0.646
+        Test AUROC:0.772
+Epoch 2
+        Validation Accuracy:0.8786
+        Validation Loss:0.2388
+        Validation AUROC:0.9618
+        Train Accuracy:0.8976
+        Train Loss:0.2512
+        Train AUROC:0.9736
+        Test Accuracy:0.6161
+        Test Loss:0.7641
+        Test AUROC:0.7535
+Epoch 3
+        Validation Accuracy:0.9143
+        Validation Loss:0.2038
+        Validation AUROC:0.9718
+        Train Accuracy:0.9286
+        Train Loss:0.1709
+        Train AUROC:0.983
+        Test Accuracy:0.6875
+        Test Loss:0.845
+        Test AUROC:0.7379
+Epoch 4
+        Validation Accuracy:0.9
+        Validation Loss:0.2145
+        Validation AUROC:0.9676
+        Train Accuracy:0.9452
+        Train Loss:0.1442
+        Train AUROC:0.9899
+        Test Accuracy:0.7054
+        Test Loss:0.782
+        Test AUROC:0.7698
+Epoch 5
+        Validation Accuracy:0.9
+        Validation Loss:0.2136
+        Validation AUROC:0.9712
+        Train Accuracy:0.9238
+        Train Loss:0.1509
+        Train AUROC:0.9939
+        Test Accuracy:0.6429
+        Test Loss:0.8405
+        Test AUROC:0.7797
+Epoch 6
+        Validation Accuracy:0.9
+        Validation Loss:0.2135
+        Validation AUROC:0.97
+        Train Accuracy:0.9833
+        Train Loss:0.0907
+        Train AUROC:0.9968
+        Test Accuracy:0.7857
+        Test Loss:0.7057
+        Test AUROC:0.8259
+Epoch 7
+        Validation Accuracy:0.9143
+        Validation Loss:0.2266
+        Validation AUROC:0.9722
+        Train Accuracy:0.9857
+        Train Loss:0.0745
+        Train AUROC:0.9982
+        Test Accuracy:0.7679
+        Test Loss:0.8086
+        Test AUROC:0.8272
+Epoch 8
+        Validation Accuracy:0.9071
+        Validation Loss:0.2183
+        Validation AUROC:0.9733
+        Train Accuracy:0.9905
+        Train Loss:0.0553
+        Train AUROC:0.9993
+        Test Accuracy:0.7768
+        Test Loss:0.7478
+        Test AUROC:0.8297

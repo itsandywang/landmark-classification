@@ -1,0 +1,10 @@
+Epoch 7
+        Validation Accuracy:0.9143
+        Validation Loss:0.2173
+        Validation AUROC:0.9663
+        Train Accuracy:0.9905
+        Train Loss:0.0686
+        Train AUROC:0.9994
+        Test Accuracy:0.7054
+        Test Loss:0.9377
+        Test AUROC:0.7618
